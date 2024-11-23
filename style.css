@@ -35,7 +35,7 @@
   /* Left Section */
   .left-section {
     width: 30%;
-    background-image: linear-gradient(to right, rgba(251,0,0,0), grey);
+    background-image: grey;
     padding: 20px;
     position: relative;
   }
