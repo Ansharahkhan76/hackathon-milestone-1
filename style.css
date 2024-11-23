@@ -35,7 +35,7 @@
   /* Left Section */
   .left-section {
     width: 30%;
-    background-image: grey;
+    background-color: grey;
     padding: 20px;
     position: relative;
   }
